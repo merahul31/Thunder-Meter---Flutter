@@ -20,3 +20,4 @@ This project include 3 screens and each one have different functionality for pro
 Rether then showing the welcome screen, the splash screen also have functionality to get the current location of the user.
 
 <img src="/readme_images/splash_screen_0.jpg" width="250">
+<img src="/readme_images/splash_screen.jpg" width="250">
