@@ -15,7 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 
 This project include 3 screens and each one have different functionality for properly working of the applicaiton.
 
-# The Splach Screen
+### The Splash Screen
 
 Rether then showing the welcome screen, the splash screen also have functionality to get the current location of the user.
 
