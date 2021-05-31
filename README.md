@@ -10,6 +10,8 @@ A few resources to get you started if this is your first Flutter project:
 
 - Clone the project
 - run pub get and you are ready to work on and modify the application.
+- edit weather.dart file (lib/services) : add your API key.
+- create a new api key on openweathermap's server. (code is written as per the data from openweathermap api).
 
 ## Introduction
 
